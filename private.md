@@ -29,4 +29,4 @@ data, and delete uploaded videos through YouTube Studio.
 
 ## Contact
 
-Contact: REPLACE_WITH_YOUR_SUPPORT_EMAIL
+Contact: hetesebreszto@gmail.com
